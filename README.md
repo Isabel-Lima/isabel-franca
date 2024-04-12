@@ -1,0 +1,28 @@
+nome = input("Digite um nome")
+corpo = input("Digite uma parte do corpo")
+idade = input("Digite um numero")
+print('Havia um senhor chamado Sr.',nome,'que tinha',idade,
+      'e um ',corpo,' que era a sua característica mais marcante. Seu',corpo,
+      "era grande, curvado e sempre vermelho, como se estivesse constantemente",
+      "doente.Um dia, o Sr.",nome,' decidiu fazer algo diferente. Ele estava',
+      'cansado de ser conhecido apenas pelo seu',corpo,'. Então, ele foi até',
+      'a loja de fantasias do bairro e comprou um',corpo,' postiço. Mas não era um',
+      corpo,' qualquer; era um nariz azul!',nome,' colocou o',
+      corpo,' azul e saiu para passear pela cidade. As pessoas na rua olhavam para ele',
+      'com surpresa. Alguns riam, outros coçavam a cabeça, sem entender o que estava',
+      'acontecendo.Ele entrou no supermercado e foi direto para a seção de',
+      'frutas. Pegou uma banana e a segurou ao lado do seu ',corpo,' azul. “Olha',
+      'só!”, exclamou para a atendente. “Agora sou o Sr. ',nome,' com um ',corpo,
+      'azul e uma banana amarela! As crianças na fila do caixa riram e aplaudiram.',
+      'O Sr. ',nome,' se sentiu o palhaço mais feliz do mundo. Ele continuou sua ',
+      'jornada, fazendo piadas com seu ',corpo,' azul em todos os lugares por onde',
+      'passava. No parque, ele se aproximou de um grupo de idosos que jogava xadrez.',
+      '“Vocês já viram um ',corpo,' azul jogando xadrez?”, perguntou, movendo as peças',
+      'no tabuleiro. Os velhinhos riram e aceitaram o desafio. O Sr.',nome,
+      'ganhou a partida de xadrez, e todos aplaudiram. Ele se despediu com um aceno e saiu do parque',
+      'ainda com o ',corpo,' azul e a banana na mão. Naquela noite, o Sr. ',nome,' voltou para casa',
+      'com o ',corpo,' azul desgastado de tanto uso. Ele olhou no espelho e sorriu. “Hoje foi um dia',
+      'incrível!”, disse para si mesmo. “Quem diria que um ',corpo,' azul poderia trazer tanta diversão?”',
+'E assim, o Sr. ',nome,' continuou a usar seu ',corpo,' azul em todas as suas aventuras. Ele ',
+      'percebeu que a vida fica mais leve quando se permite ser um pouco diferente. ',
+      'Afinal, como dizia o velho ditado: “Quem tem ',corpo,' azul, tem histórias para contar!')
